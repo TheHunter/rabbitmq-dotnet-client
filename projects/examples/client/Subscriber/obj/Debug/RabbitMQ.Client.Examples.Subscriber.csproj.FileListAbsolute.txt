@@ -1,0 +1,8 @@
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\examples\client\Subscriber\build\bin\Subscriber.exe
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\examples\client\Subscriber\build\bin\Subscriber.pdb
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\examples\client\Subscriber\build\bin\RabbitMQ.Client.dll
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\examples\client\Subscriber\build\bin\RabbitMQ.Client.pdb
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\examples\client\Subscriber\build\bin\RabbitMQ.Client.xml
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\examples\client\Subscriber\obj\Debug\RabbitMQ.Client.Examples.Subscriber.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\examples\client\Subscriber\obj\Debug\Subscriber.exe
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\examples\client\Subscriber\obj\Debug\Subscriber.pdb

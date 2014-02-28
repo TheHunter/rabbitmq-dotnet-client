@@ -1,0 +1,7 @@
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\examples\client\SendMap\build\bin\SendMap.exe
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\examples\client\SendMap\build\bin\SendMap.pdb
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\examples\client\SendMap\build\bin\RabbitMQ.Client.dll
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\examples\client\SendMap\build\bin\RabbitMQ.Client.pdb
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\examples\client\SendMap\build\bin\RabbitMQ.Client.xml
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\examples\client\SendMap\obj\Debug\SendMap.exe
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\examples\client\SendMap\obj\Debug\SendMap.pdb

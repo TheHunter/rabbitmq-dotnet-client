@@ -1,0 +1,4 @@
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\client\ApigenBootstrap\build\bin\apigen-bootstrap.dll
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\client\ApigenBootstrap\build\bin\apigen-bootstrap.pdb
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\client\ApigenBootstrap\obj\Debug\apigen-bootstrap.dll
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\client\ApigenBootstrap\obj\Debug\apigen-bootstrap.pdb

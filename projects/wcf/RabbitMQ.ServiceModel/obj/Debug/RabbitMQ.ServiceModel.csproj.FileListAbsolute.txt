@@ -1,0 +1,9 @@
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\wcf\RabbitMQ.ServiceModel\build\bin\RabbitMQ.ServiceModel.xml
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\wcf\RabbitMQ.ServiceModel\build\bin\RabbitMQ.ServiceModel.dll
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\wcf\RabbitMQ.ServiceModel\build\bin\RabbitMQ.ServiceModel.pdb
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\wcf\RabbitMQ.ServiceModel\build\bin\RabbitMQ.Client.dll
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\wcf\RabbitMQ.ServiceModel\build\bin\RabbitMQ.Client.pdb
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\wcf\RabbitMQ.ServiceModel\build\bin\RabbitMQ.Client.xml
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\wcf\RabbitMQ.ServiceModel\obj\Debug\RabbitMQ.ServiceModel.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\wcf\RabbitMQ.ServiceModel\obj\Debug\RabbitMQ.ServiceModel.dll
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\wcf\RabbitMQ.ServiceModel\obj\Debug\RabbitMQ.ServiceModel.pdb

@@ -1,0 +1,8 @@
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\examples\client\ExceptionTest\build\bin\ExceptionTest.exe
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\examples\client\ExceptionTest\build\bin\ExceptionTest.pdb
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\examples\client\ExceptionTest\build\bin\RabbitMQ.Client.dll
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\examples\client\ExceptionTest\build\bin\RabbitMQ.Client.pdb
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\examples\client\ExceptionTest\build\bin\RabbitMQ.Client.xml
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\examples\client\ExceptionTest\obj\Debug\RabbitMQ.Client.Examples.ExceptionTest.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\examples\client\ExceptionTest\obj\Debug\ExceptionTest.exe
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\examples\client\ExceptionTest\obj\Debug\ExceptionTest.pdb

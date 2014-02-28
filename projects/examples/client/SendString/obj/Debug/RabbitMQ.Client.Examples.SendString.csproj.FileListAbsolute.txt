@@ -1,0 +1,8 @@
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\examples\client\SendString\build\bin\SendString.exe
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\examples\client\SendString\build\bin\SendString.pdb
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\examples\client\SendString\build\bin\RabbitMQ.Client.dll
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\examples\client\SendString\build\bin\RabbitMQ.Client.pdb
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\examples\client\SendString\build\bin\RabbitMQ.Client.xml
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\examples\client\SendString\obj\Debug\RabbitMQ.Client.Examples.SendString.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\examples\client\SendString\obj\Debug\SendString.exe
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\examples\client\SendString\obj\Debug\SendString.pdb

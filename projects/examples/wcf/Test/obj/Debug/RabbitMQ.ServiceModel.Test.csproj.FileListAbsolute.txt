@@ -1,0 +1,12 @@
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\examples\wcf\Test\build\bin\RabbitMQ.ServiceModel.Test.exe.config
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\examples\wcf\Test\build\bin\RabbitMQ.ServiceModel.Test.exe
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\examples\wcf\Test\build\bin\RabbitMQ.ServiceModel.Test.pdb
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\examples\wcf\Test\build\bin\RabbitMQ.Client.dll
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\examples\wcf\Test\build\bin\RabbitMQ.ServiceModel.dll
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\examples\wcf\Test\build\bin\RabbitMQ.Client.pdb
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\examples\wcf\Test\build\bin\RabbitMQ.Client.xml
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\examples\wcf\Test\build\bin\RabbitMQ.ServiceModel.pdb
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\examples\wcf\Test\build\bin\RabbitMQ.ServiceModel.xml
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\examples\wcf\Test\obj\Debug\RabbitMQ.ServiceModel.Test.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\examples\wcf\Test\obj\Debug\RabbitMQ.ServiceModel.Test.exe
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\examples\wcf\Test\obj\Debug\RabbitMQ.ServiceModel.Test.pdb

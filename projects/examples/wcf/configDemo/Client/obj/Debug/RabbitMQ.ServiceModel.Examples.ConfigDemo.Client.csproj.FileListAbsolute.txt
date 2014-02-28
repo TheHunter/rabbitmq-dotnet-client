@@ -1,0 +1,14 @@
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\examples\wcf\configDemo\Client\build\bin\Client.exe.config
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\examples\wcf\configDemo\Client\build\bin\Client.exe
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\examples\wcf\configDemo\Client\build\bin\Client.pdb
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\examples\wcf\configDemo\Client\build\bin\RabbitMQ.ServiceModel.dll
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\examples\wcf\configDemo\Client\build\bin\WcfServiceLibrary1.dll
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\examples\wcf\configDemo\Client\build\bin\RabbitMQ.Client.dll
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\examples\wcf\configDemo\Client\build\bin\RabbitMQ.ServiceModel.pdb
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\examples\wcf\configDemo\Client\build\bin\RabbitMQ.ServiceModel.xml
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\examples\wcf\configDemo\Client\build\bin\WcfServiceLibrary1.pdb
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\examples\wcf\configDemo\Client\build\bin\RabbitMQ.Client.pdb
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\examples\wcf\configDemo\Client\build\bin\RabbitMQ.Client.xml
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\examples\wcf\configDemo\Client\obj\Debug\RabbitMQ.ServiceModel.Examples.ConfigDemo.Client.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\examples\wcf\configDemo\Client\obj\Debug\Client.exe
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\rabbitmq-dotnet-client\projects\examples\wcf\configDemo\Client\obj\Debug\Client.pdb
